@@ -1,4 +1,10 @@
-hello.txt
-hi.txt
-what.txt
-e.exe
+MainApp.exe
+welcome.ico
+WeAreDevs_API.dll
+lua.xshd
+logo.png
+KrnlAPI.dll
+ICSharpCode.AvalonEdit.dll
+folderlength.txt
+EasyExploits.dll
+Current.txt
