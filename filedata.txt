@@ -8,3 +8,6 @@ ICSharpCode.AvalonEdit.dll
 folderlength.txt
 EasyExploits.dll
 Current.txt
+BonoInject\\Bono Injector.exe
+BonoInject\\Guna.UI2.dll
+BonoInject\\icon.ico
